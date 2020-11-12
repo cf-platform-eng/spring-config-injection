@@ -1,3 +1,5 @@
+# spring-config-injection is no longer actively maintained by VMware.
+
 # Spring Config Decorator
 
 This is a [supply](https://docs.cloudfoundry.org/buildpacks/understand-buildpacks.html) buildpack
